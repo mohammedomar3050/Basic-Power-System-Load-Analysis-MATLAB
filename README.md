@@ -8,6 +8,9 @@ This mini project demonstrates the use of MATLAB fundamentals to analyze electri
 - Overload detection using conditional statements
 - Visualization of the daily load curve
 
+## Sample Output
+![Load Curve](load_curve.png)
+
 ## Tools & Skills
 - MATLAB
 - Power Systems (Basics)
